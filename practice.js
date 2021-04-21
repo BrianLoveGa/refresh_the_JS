@@ -62,5 +62,14 @@ console.log(numString);
 
 
 
-///
+///  stringy strings
 
+var dqs1 = "This is a \"javascript\" string";
+var dqs2 = 'This is a "javascript" string';
+var sqs1 = 'This is a \'javascript\' string';
+var sqs2 = "This is a 'javascript' string";
+
+console.log(dqs1);
+console.log(dqs2);
+console.log(sqs1);
+console.log(sqs2);
